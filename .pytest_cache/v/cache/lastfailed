@@ -1,0 +1,18 @@
+{
+  "tests/test_facets.py::test_faceted_search_should_also_support_paging": true,
+  "tests/test_facets.py::test_faceted_search_should_return_rating_and_runtime_buckets": true,
+  "tests/test_paging.py::test_supports_paging_by_cast": true,
+  "tests/test_paging.py::test_supports_paging_by_genre": true,
+  "tests/test_paging.py::test_supports_paging_by_text": true,
+  "tests/test_projection.py::test_basic_country_search_db": true,
+  "tests/test_projection.py::test_basic_country_search_shape_db": true,
+  "tests/test_text_and_subfield_search.py::test_cast_search": true,
+  "tests/test_text_and_subfield_search.py::test_genre_search": true,
+  "tests/test_text_and_subfield_search.py::test_multiple_cast_search": true,
+  "tests/test_text_and_subfield_search.py::test_multiple_genre_search": true,
+  "tests/test_text_and_subfield_search.py::test_text_search": true,
+  "tests/test_user_management.py::test_login": true,
+  "tests/test_user_management.py::test_logout": true,
+  "tests/test_user_management.py::test_no_duplicate_registrations": true,
+  "tests/test_user_management.py::test_registration": true
+}
